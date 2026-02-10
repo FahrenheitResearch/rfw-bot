@@ -1,0 +1,14 @@
+# User-specific files (never commit these)
+.env
+config.json
+seen_alerts.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
